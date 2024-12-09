@@ -20,4 +20,6 @@ After these first few data cells, we have the analysis code. These cells can be 
 
 - BERT CLS Token Approach Fine-Tuned
 
-Wach method has a subsection for the tech and general datasets
+Each method has a subsection for the tech and general datasets.
+
+The GoogleNews weights can be found at: https://drive.google.com/file/d/1j7-0mg_xw7FWES12AA0rAXOTUHt-NcDJ/view?usp=sharing
